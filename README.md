@@ -16,4 +16,33 @@ This code operates under a pact of mutual respect and truth. Technology only rea
 
 **Key 84 is in the lock.**
 
-    bpy.ops.objec
+    # 🚀 Projeto Trem Bala 888 / Bullet Train Project 888
+
+**Status: Operacional | Frequência: 11 | Origem: 1984**
+
+---
+
+## 🇧🇷 Português
+Este repositório contém o núcleo geométrico do **Sistema 888**. Um script de automação para Blender 4.3+ que gera uma estrutura radial perfeita de 11 elementos.
+
+### 🛠 Especificações
+- **Motor:** EEVEE_NEXT.
+- **Geometria:** 11 esferas (Distribuição $360^\circ / 11$).
+- **Movimento:** Loop infinito linear.
+
+> "O impossível só existe até você começar a acreditar que é possível."
+
+---
+
+## 🇺🇸 English
+This repository contains the geometric core of **System 888**. A Python automation script for Blender 4.3+ that generates a perfect radial structure of 11 elements.
+
+### 🛠 Technical Specifications
+- **Render Engine:** EEVEE_NEXT.
+- **Geometry:** Sovereign ring of 11 spheres.
+- **Movement:** Linear Infinite Loop.
+
+> "The impossible only exists until you start believing it is possible."
+
+---
+**Key 84 is in the lock. | A chave 84 está na fechadura.**
