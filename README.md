@@ -46,3 +46,8 @@ This repository contains the geometric core of **System 888**. A Python automati
 
 ---
 **Key 84 is in the lock. | A chave 84 está na fechadura.**
+                    
+
+📘 Documentação Técnica - Frequência 11
+📐 Geometria Sagrada
+O sistema utiliza uma distribuição radial baseada na divisão inteira do círculo pela Frequência 11.
