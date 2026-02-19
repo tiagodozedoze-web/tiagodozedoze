@@ -51,3 +51,5 @@ This repository contains the geometric core of **System 888**. A Python automati
 📘 Documentação Técnica - Frequência 11
 📐 Geometria Sagrada
 O sistema utiliza uma distribuição radial baseada na divisão inteira do círculo pela Frequência 11.
+
+Equação de Posição:
