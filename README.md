@@ -53,3 +53,14 @@ This repository contains the geometric core of **System 888**. A Python automati
 O sistema utiliza uma distribuição radial baseada na divisão inteira do círculo pela Frequência 11.
 
 Equação de Posição:
+
+x = r \cdot \cos(\theta)
+
+y = r \cdot \sin(\theta)
+
+Onde \theta = i \cdot (360^\circ / 11), garantindo que cada esfera ocupe um espaço exato e equidistante.
+
+⚡ Motor de Ignição
+O script limpa todos os dados órfãos antes de iniciar (Blindagem de Buffer), garantindo que a memória do hardware esteja focada apenas na criação atual.
+🔒 Segurança de Gestão
+Este código foi projetado para ser executado em ambiente isolado. Ele não possui permissões de sistema para acessar arquivos externos, garantindo a integridade do seu hardware e da sua conta.
