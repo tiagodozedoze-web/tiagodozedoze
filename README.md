@@ -1,4 +1,15 @@
+
+
+
+## Project: Sovereignty 888
+
+$$\hat{O} | \Psi \rangle = E | \Psi \rangle$$
+
+**Status:** Colapsando probabilidades em código modular.
+
+
 # 🚀 Bullet Train Project 888
+
 
 **Status: Operational | Frequency: 11 | Origin: 1984**
 
